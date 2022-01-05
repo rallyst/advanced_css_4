@@ -11,5 +11,15 @@ li {
     a {
         text-transform: capitalize;
         font-weight: 600;
+
+        // &:hover {
+        //     color: $primary;
+        
+        // } 
+    
     }
+}
+
+.nav-link {
+    color: $white;
 }

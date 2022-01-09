@@ -1,8 +1,5 @@
 @use '../custom' as *;
 
- 
-
-
 .display-2 {
     margin-bottom: 1rem;
     text-transform: capitalize;
@@ -74,7 +71,6 @@
 }
 
 // GRADIENT BG
-
 .gradient {
     background: linear-gradient(to right, rgba($primary, 0.95), rgba($secondary, 0.95));
 }
